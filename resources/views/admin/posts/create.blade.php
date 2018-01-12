@@ -25,7 +25,16 @@
 
       <textarea name="content" id="" cols="5" rows="5" class="form-control"></textarea>
 
-      
+      <div class="form-group">
+
+        <div class="text-center">
+
+          <button class="btn btn-success" type="submit">
+
+
+          </button>
+
+        </div>
 
 
       </div>
