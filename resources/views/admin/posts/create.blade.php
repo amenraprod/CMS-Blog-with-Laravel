@@ -23,7 +23,9 @@
 
      <label for="content">Content</label>
 
-      <textarea name="content" id="" cols="5" rows="5" class="form-control">
+      <textarea name="content" id="" cols="5" rows="5" class="form-control"></textarea>
+
+      
 
 
       </div>
