@@ -2,7 +2,10 @@
 
 @section('content')
 
-<h2 class="text-center">Create a new post
+<div class="panel panel-default">
+  <div class="panel-heading">
+    Create a new post
+  </div>
 
-</h2>
+</div>
 @stop
