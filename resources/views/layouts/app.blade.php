@@ -75,8 +75,10 @@
           <div class="row">
             <div class="col-lg-4">
               <ul class="list-group">
-
                 <li class="list-group-item">
+                <a href="/home">Home</a>
+                <li class="list-group-item">
+
                <a href="/post/create">Create New Post</a>
                 </ul>
               </li>
