@@ -19,7 +19,14 @@
 
     <label for="featured">Featured Image</label>
 
-     <input type="file" name="featured" class="form-control">
+<div class="form-group">
+
+     <label for="content">Content</label>
+
+      <textarea name="content" id="" cols="5" rows="5" class="form-control">
+
+
+      </div>
 
   </form>
 
