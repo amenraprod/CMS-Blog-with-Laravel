@@ -30,6 +30,7 @@
         <div class="text-center">
 
           <button class="btn btn-success" type="submit">
+            Store post
 
 
           </button>
